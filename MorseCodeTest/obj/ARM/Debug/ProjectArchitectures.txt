@@ -1,0 +1,2 @@
+c:\users\thiago\documents\visual studio 2015\Projects\MorseCode\MorseCode\MorseCode.csproj;arm
+c:\users\thiago\documents\visual studio 2015\Projects\MorseCode\MorseCodeTest\MorseCodeTest.csproj;arm
